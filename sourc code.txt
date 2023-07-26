@@ -1,0 +1,59 @@
+<section class="blog-content">
+    <div class="row">
+        <div class="blog-left">
+            <img src="images/certificate.jpg">
+            <h2>Our certificate & online program for 2021</h2>
+            <p>Lorem ipsum dolor sit amet ,consectetur adipiscing elit.
+                Penllentesque iquent turpis nulla, eleifend faucibus est sollicitudin ut.
+                Maecenas ut venenatis ex, et dapibus purus. Donec sit amet nisl justo malesuada fermentum . 
+            Donec eget felis dolor . Suspendisse condimentum vestibulum ex ac cursus</p>
+            <br>
+            <p>Lorem tpsum dolor sft amet, consectetur adiplscfng elit. Pellentesque aliquet turpis nulla, eleffend faucfbus est soltfcitudtn ut.
+                 Maecenas ut venenatis ex, et dapfbus purus. Donec sit amet ntsl non Justo malesuada feratum Donec eeet felts dolor. Suspendfsse condf entum vestibulum exac cursus Mam pharetra vfverra efffcitur. 
+                 Sed Dellentesque Luctus arcu, quis ffnibus nibh luctus attis. Vivamus dfam turpis, pellentesque vel magna sit amet, sollfcitudin efffcftur tortor. Ettam ornare Lacinial faculis. Cras nec duf eu nibh pharetra condtmentum Vestlbunl ultrices sapten vitae arcu varius volutpat. Integer rhoncus a assa ut alfquam.
+                 Sed aliquet, nibh non dictum llancorper, orct arcu posuere tortor, vitae</p>
+                 <br>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet turpis mulla, eleifend faucibus est sollicitudin ut. 
+                     Maecenas ut venenatis ex, et dapibus purus. Donec sit amet nisl non justo malesuada fermentum. Donec eget felis dolor. Suspendisse condinentu vestibulum ex ac cursus. Nam pharetra viverra efficitur. Sed pellentesque luctus arcu, quis finibus nibh luctus mattis. vivamus diam turpis, pellentesque vel agna sit amet, sollicitudin efficitur tortor.
+                      Etia ornare lacinia faculis. Cras nec dui eu nibh pharetra condimentum</p>
+                      <br>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquet turpis nulla, eleifend faucibus est sollicitudin ut. Maecenas ut venenatis ex, et dapibus purus. Donec sit amet nisl non fusto malesuada fermentum. Donec eget felis dolor. 
+                        Suspendisse condimentum vestibulum ex ac cursus. Nam pharetra viverra efficitur. Sed pellentesque luctus arcu.
+                      </p>
+</div>
+    <div class="blog-right">
+            <h3>post categories</h3>
+        <div>
+            <span> Business Analytics </span>
+            <span>21</span>
+        </div>
+        <div>
+            <span> Data Science </span>
+            <span>28</span>
+        </div>
+        <div>
+            <span> Machine Learning </span>
+            <span>15</span>
+        </div>
+        <div>
+            <span> Computer Science </span>
+            <span>35</span>
+        </div>
+        <div>
+            <span> AutoCAD </span>
+            <span>42</span>
+        </div>
+        <div>
+            <span> Journalism </span>
+            <span>22/span>
+        </div>
+        <div>
+            <span> commerce </span>
+            <span>30</span>
+        </div>
+        </div>
+    </div>
+
+</section>
+
